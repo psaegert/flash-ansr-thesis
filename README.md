@@ -17,6 +17,13 @@ Symbolic Regression has been approached with many different methods and paradigm
 
 # Citation
 ```bibtex
+@mastersthesis{flash-ansr2024-thesis,
+  author  = {Paul Saegert},
+  title   = {Flash Amortized Neural Symbolic Regression},
+  school  = {Heidelberg University},
+  year    = {2025},
+  url = {https://github.com/psaegert/flash-ansr-thesis}
+}
 @software{flash-ansr2024,
     author = {Paul Saegert},
     title = {Flash Amortized Neural Symbolic Regression},
