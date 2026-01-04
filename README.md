@@ -6,8 +6,6 @@
 
 </div>
 
-<img src="https://github.com/psaegert/flash-ansr/blob/main/assets/images/nsr-training.drawio.svg" width="100%">
-
 > **⚡ANSR Training on Fully Procedurally Generated Data** Inspired by NeSymReS ([Biggio et al. 2021](https://arxiv.org/abs/2106.06427))
 
 
